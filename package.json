@@ -1,0 +1,28 @@
+{
+  "name": "js_practice",
+  "version": "1.0.0",
+  "description": "Practice",
+  "source": "./index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anastacia-titmouse/tms-practice-four.git"
+  },
+  "author": "Sinitsa A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anastacia-titmouse/tms-practice-four/issues"
+  },
+  "homepage": "https://github.com/anastacia-titmouse/tms-practice-four#readme",
+  "dependencies": {
+    "parcel": "^2.6.0",
+    "sass": "^1.52.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0"
+  }
+}
