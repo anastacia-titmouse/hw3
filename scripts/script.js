@@ -95,7 +95,7 @@ console.log(name.toLowerCase());
 
 
 //Task 3
-console.log('Task 3');
+
 for (let i=1, j=6, str = ''; i<=j; i++) {
     str += '#';
     console.log(str);
